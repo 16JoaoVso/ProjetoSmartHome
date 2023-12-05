@@ -4,21 +4,22 @@ Um projeto de uma casa inteligente com supervisão do professor José de Assis e
 -----------------------------------------------------------------------------------------------
 
 # Documentação
+-------------------------------------------------------------------------------------------------
 
 [TinkerCad](https://www.tinkercad.com/things/cHwbkdKiYQW-casa-inteligente/editel?returnTo=%2Fdashboard)
 
-# Os integrantes do grupo são: 
+----------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------
+# Os integrantes do grupo são: 
+----------------------------------------------------------------------------------------------------
 
 João Victor Santos (Documentação)
 
 Enzo Marcolino (Linux)
 
-
 Kaio Eduardo (Aplicativo)
 
-
 Camila Yukari (Maquete)
-
 
 Eduardo Sewnarine Carrilho (Arduino)
