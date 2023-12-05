@@ -1,4 +1,4 @@
-# Projeto Integrador do curso de T.I do Senac Tatuapé UC-08, Turma da tarde
+# Projeto Integrador do curso de T.I do Senac Tatuapé UC-08, Turma 02/23 Tarde
 -----------------------------------------------------------------------------
 
 Um projeto de uma casa inteligente com supervisão do professor José de Assis e Robson Vaamonde.
