@@ -9,11 +9,11 @@ Para documentaçao usamos Fritzing e TinkerCad.
 
 O Projeto consiste em montar uma maquete de uma casa inteligente controlada por um app e com o sistema em Arduino.
 
-# Documentação
+## Documentação
 -------------------------------------------------------------------------------------------------
 [TinkerCad](https://www.tinkercad.com/things/cHwbkdKiYQW-casa-inteligente/editel?returnTo=%2Fdashboard)
 
-# Os integrantes do grupo são: 
+### Os integrantes do grupo são: 
 ----------------------------------------------------------------------------------------------------
 
 João Victor Santos (Documentação)
