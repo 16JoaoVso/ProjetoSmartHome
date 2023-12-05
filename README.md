@@ -16,12 +16,12 @@ O Projeto consiste em montar uma maquete de uma casa inteligente controlada por 
 ### Os integrantes do grupo são: 
 ----------------------------------------------------------------------------------------------------
 
-João Victor Santos (Documentação)
+> João Victor Santos (Documentação)
 
-Enzo Marcolino (Linux)
+> Enzo Marcolino (Linux)
 
-Kaio Eduardo (Aplicativo)
+> Kaio Eduardo (Aplicativo)
 
-Camila Yukari (Maquete)
+> Camila Yukari (Maquete)
 
-Eduardo Sewnarine Carrilho (Arduino)
+> Eduardo Sewnarine Carrilho (Arduino)
