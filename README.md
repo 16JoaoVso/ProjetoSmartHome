@@ -1,6 +1,7 @@
 # Projeto Integrador do curso de T.I do Senac Tatuapé UC-08, Turma da tarde
 -----------------------------------------------------------------------------
-Um projeto de uma casa inteligente com supervisão do professor José de Assis e Robson Vaamonde
+
+Um projeto de uma casa inteligente com supervisão do professor José de Assis e Robson Vaamonde.
 
 Nesse Projeto utilizaremos Linux Mint para usar o Arduino.IDE e faz controlar o sistem operacional do Arduino.
 
