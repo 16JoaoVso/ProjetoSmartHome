@@ -5,7 +5,7 @@ Um projeto de uma casa inteligente com supervisão do professor José de Assis e
 
 # Documentação
 
-[TinkerCad](https://bit.ly/TinkerCadProjeto)
+[TinkerCad](https://www.tinkercad.com/things/cHwbkdKiYQW-casa-inteligente/editel?returnTo=%2Fdashboard)
 
 # Os integrantes do grupo são: 
 
