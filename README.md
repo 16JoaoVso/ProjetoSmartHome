@@ -11,7 +11,7 @@ O Projeto consiste em montar uma maquete de uma casa inteligente controlada por 
 
 ## Documentação
 -------------------------------------------------------------------------------------------------
-> **[TinkerCad](https://www.tinkercad.com/things/7KBfNnfCYZC-copy-of-casa-inteligente/editel?tenant=circuits)**
+> **[TinkerCad](https://www.tinkercad.com/things/7KBfNnfCYZC-casainteligente?sharecode=_48Ax4eK61U1Rx_6tfVTK_CRrmssw8OwtTQInQUA99k)**
 
 ### Os integrantes do grupo são: 
 ----------------------------------------------------------------------------------------------------
