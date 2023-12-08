@@ -13,7 +13,21 @@ O Projeto consiste em montar uma maquete de uma casa inteligente controlada por 
 -------------------------------------------------------------------------------------------------
 > **[TinkerCad](https://www.tinkercad.com/things/7KBfNnfCYZC-casainteligente?sharecode=_48Ax4eK61U1Rx_6tfVTK_CRrmssw8OwtTQInQUA99k)**
 
-### Os integrantes do grupo são: 
+### Fotos
+
+> **[Casa]**
+
+> **[Arduino]**
+
+
+https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/7e173b1f-bf0c-4d88-905e-41780208780c
+
+
+> **[Aplicativo]**  
+
+> **[ResultadoFinal]**
+
+#### Os integrantes do grupo são: 
 ----------------------------------------------------------------------------------------------------
 
 >- João Victor Santos (Documentação)
