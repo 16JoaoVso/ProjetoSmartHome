@@ -17,15 +17,21 @@ O Projeto consiste em montar uma maquete de uma casa inteligente controlada por 
 
 > **[Casa]**
 
+
+https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/8a23bebd-6ec1-4293-95df-67dc57feb9f9
+
+
 > **[Arduino]**
 
 
 https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/7e173b1f-bf0c-4d88-905e-41780208780c
 
 
-> **[Aplicativo]**  
-
 > **[ResultadoFinal]**
+
+
+https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/5f12b6f5-04da-4074-892e-55cc7fe65f20
+
 
 #### Os integrantes do grupo são: 
 ----------------------------------------------------------------------------------------------------
