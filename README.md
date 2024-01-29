@@ -17,6 +17,10 @@ O Projeto consiste em montar uma maquete de uma casa inteligente controlada por 
 
 > **[Casa]**
 
+Uploading WhatsApp Video 2024-01-29 at 18.35.55.mp4…
+
+
+
 
 https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/8a23bebd-6ec1-4293-95df-67dc57feb9f9
 
