@@ -30,7 +30,13 @@ https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/7e173b1f-bf0c-4d8
 > **[ResultadoFinal]**
 
 
-https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/5f12b6f5-04da-4074-892e-55cc7fe65f20
+
+
+
+https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/258fec19-dd02-45fc-a709-725943681cf9
+
+
+
 
 
 #### Os integrantes do grupo são: 
