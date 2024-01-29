@@ -28,5 +28,17 @@ https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/3f9a2204-eb8c-438
 ![CasaMontada4](https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/d9960c7e-9892-41dc-84e4-b357c14f6c33)
 
 
+
+
+https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/ecfe8c0a-f246-4861-b669-4b14beb152a2
+
+
+
+https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/1a11edef-0144-4c19-8b85-89707fd01c7b
+
+
+https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/f3eeba70-b6a8-444b-b776-6d287dded64d
+
+
 https://github.com/16JoaoVso/ProjetoSmartHome/assets/129982952/18442e03-6e97-49db-802e-41842b0101cc
 
